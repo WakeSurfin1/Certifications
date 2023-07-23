@@ -1,5 +1,5 @@
 # Certifications
-Below lists a few of my technical certification credentials.
+Below are a few of my technical certification credentials.
 
 ---
 ![Certificate Image](https://github.com/WakeSurfin1/Certifications/raw/main/Microsoft_Azure_data_engineer.jpg)
